@@ -1,0 +1,1706 @@
+  +--------------------------------------------------------------------+
+     ¦                        • MobaXterm 12.3 •                          ¦
+     ¦            (SSH client, X-server and networking tools)             ¦
+     ¦                                                                    ¦
+     ¦ ? SSH session to lmo120@fox03.cs.utsa.edu                          ¦
+     ¦   • SSH compression : ?                                            ¦
+     ¦   • SSH-browser     : ?                                            ¦
+     ¦   • X11-forwarding  : ?  (remote display is forwarded through SSH) ¦
+     ¦   • DISPLAY         : ?  (automatically set on remote server)      ¦
+     ¦                                                                    ¦
+     ¦ ? For more info, ctrl+click on help or visit our website           ¦
+     +--------------------------------------------------------------------+
+
+Welcome to Ubuntu 14.04.5 LTS (GNU/Linux 4.4.0-133-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+  System information as of Sat Nov  7 03:15:57 CST 2020
+
+  System load:  0.08               Processes:           209
+  Usage of /:   75.8% of 15.53GB   Users logged in:     0
+  Memory usage: 2%                 IP address for eth0: 129.115.27.203
+  Swap usage:   0%
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+168 packages can be updated.
+143 updates are security updates.
+
+Your Hardware Enablement Stack (HWE) is supported until April 2019.
+_____________________________________________________________________________________
+
+IMPORTANT NOTICE:
+-Change password on first login.
+-Keep a copy of all your files on external and/or cloud storage.
+-Linux accounts/files are locked after 6 months and are removed after one year.
+-Linux access will be tentative after the end of each semester, so back up your data at the end of your semester.
+_____________________________________________________________________________________
+
+Please submit your trouble-tickets here:
+https://cs.utsa.edu/contact
+https://utsacs.on.spiceworks.com/portal_registrations
+_____________________________________________________________________________________
+
+Last login: Sat Nov  7 00:05:41 2020 from cpe-66-25-94-170.satx.res.rr.com
+lmo120@fox03:~$ ls
+a.c              Assignment06     Assignment4          dank_Memes        RecitationPrograms  tmp
+Assignment05     Assignment06New  courses              FirstProgram      SP2019_CS1713       whoson
+Assignment05NEW  Assignment 3     CS2121 Assignment 2  NetBeansProjects  TestPrograms        working
+lmo120@fox03:~$ cd courses/
+lmo120@fox03:~/courses$ ls
+cs3423  cs3723PL  cs3843  cs3853
+lmo120@fox03:~/courses$ cd cs3723PL/
+lmo120@fox03:~/courses/cs3723PL$ clear
+lmo120@fox03:~/courses/cs3723PL$ ls
+a  a.out  Assignments  eval  eval.c  How to Compile and Run.txt  LISP  Test.c
+lmo120@fox03:~/courses/cs3723PL$ cd Assignments/HW6/
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ ls
+completedFunctions.txt  HW6LispExtraRun.txt  HW6LispRun.txt  hw6Lisp.txt  hw6.out
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+[1]> (remove nil '(nil x nil y nil z))
+(X Y Z)
+[2]> (remove nil '())
+Network error: Software caused connection abort
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Session stopped
+    - Press <return> to exit tab
+    - Press R to restart session
+    - Press S to save terminal output to file
+login as: lmo120
+     +--------------------------------------------------------------------+
+     ¦                        • MobaXterm 12.3 •                          ¦
+     ¦            (SSH client, X-server and networking tools)             ¦
+     ¦                                                                    ¦
+     ¦ ? SSH session to lmo120@fox03.cs.utsa.edu                          ¦
+     ¦   • SSH compression : ?                                            ¦
+     ¦   • SSH-browser     : ?                                            ¦
+     ¦   • X11-forwarding  : ?  (remote display is forwarded through SSH) ¦
+     ¦   • DISPLAY         : ?  (automatically set on remote server)      ¦
+     ¦                                                                    ¦
+     ¦ ? For more info, ctrl+click on help or visit our website           ¦
+     +--------------------------------------------------------------------+
+
+Welcome to Ubuntu 14.04.5 LTS (GNU/Linux 4.4.0-133-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+  System information as of Sat Nov  7 03:25:57 CST 2020
+
+  System load:  0.0                Processes:           216
+  Usage of /:   75.8% of 15.53GB   Users logged in:     1
+  Memory usage: 2%                 IP address for eth0: 129.115.27.203
+  Swap usage:   0%
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+168 packages can be updated.
+143 updates are security updates.
+
+Your Hardware Enablement Stack (HWE) is supported until April 2019.
+_____________________________________________________________________________________
+
+IMPORTANT NOTICE:
+-Change password on first login.
+-Keep a copy of all your files on external and/or cloud storage.
+-Linux accounts/files are locked after 6 months and are removed after one year.
+-Linux access will be tentative after the end of each semester, so back up your data at the end of your semester.
+_____________________________________________________________________________________
+
+Please submit your trouble-tickets here:
+https://cs.utsa.edu/contact
+https://utsacs.on.spiceworks.com/portal_registrations
+_____________________________________________________________________________________
+
+Last login: Sat Nov  7 03:20:10 2020 from cpe-66-25-94-170.satx.res.rr.com
+lmo120@fox03:~$ cd courses/cs3723PL/Assignments/HW6/
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ ls
+completedFunctions.txt  HW6LispExtraRun.txt  HW6LispRun.txt  hw6Lisp.txt  hw6.out
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clear
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)
+    (COND ((NULL L) NIL)
+          (REMOVE nil L) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+REMOVENILTOP
+
+)
+*** - READ from #<IO ECHO-STREAM #<INPUT BUFFERED FILE-STREAM CHARACTER #P"hw6Lisp.txt" @6> #<IO SYNONYM-STREAM *TERMINAL-IO*>>: an object
+      cannot start with #\)
+
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)
+    (COND ((NULL L) NIL)
+          ((REMOVE nil L) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+)
+REMOVENILTOP
+
+
+
+
+
+
+;;;  #1 removeNILTop
+
+(removeNILTop '(NIL X NIL NIL Y  NIL Z))
+(NIL X NIL NIL Y NIL Z)
+
+(removeNILTop '(X NIL Y NIL Z NIL))
+(X NIL Y NIL Z)
+
+(removeNILTop '(NIL (X NIL Y) (NIL NIL)))
+(NIL (X NIL Y) (NIL NIL))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)
+    (COND ((NULL L) NIL)
+          ((REMOVE 'nil L) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+)
+REMOVENILTOP
+
+
+
+
+
+
+;;;  #1 removeNILTop
+
+(removeNILTop '(NIL X NIL NIL Y  NIL Z))
+(NIL X NIL NIL Y NIL Z)
+
+(removeNILTop '(X NIL Y NIL Z NIL))
+(X NIL Y NIL Z)
+
+(removeNILTop '(NIL (X NIL Y) (NIL NIL)))
+(NIL (X NIL Y) (NIL NIL))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)
+    (COND ((NULL L) NIL)
+          ((EQL nil (CAR L)) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+)
+REMOVENILTOP
+
+
+
+
+
+
+;;;  #1 removeNILTop
+
+(removeNILTop '(NIL X NIL NIL Y  NIL Z))
+(NIL NIL NIL NIL)
+
+(removeNILTop '(X NIL Y NIL Z NIL))
+(NIL NIL NIL)
+
+(removeNILTop '(NIL (X NIL Y) (NIL NIL)))
+(NIL)
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)
+    (COND ((NULL L) NIL)
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+)
+REMOVENILTOP
+
+
+
+
+
+
+;;;  #1 removeNILTop
+
+(removeNILTop '(NIL X NIL NIL Y  NIL Z))
+(X Y Z)
+
+(removeNILTop '(X NIL Y NIL Z NIL))
+(X Y Z)
+
+(removeNILTop '(NIL (X NIL Y) (NIL NIL)))
+((X NIL Y) (NIL NIL))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((NULL L) NIL)
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+)
+REMOVENILMOST
+
+
+
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+*** - EVAL: undefined function REMOVENILTOP
+
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((NULL L) NIL)
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILMost(CDR L))))
+          (T (removeNILMost(CDR L)))
+    )
+)
+REMOVENILMOST
+
+
+
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+(X Y Z)
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+(X (Y NIL Z))
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+((NIL) (X NIL Y) (NIL NIL) Z)
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+(((((((NIL) NIL))))))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (OR (removeNILMost  (CAR L)) (removeNILMost  (CDR L))))
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILMost(CDR L))))
+          (T (removeNILMost(CDR L)))
+    )
+)
+REMOVENILMOST
+
+
+
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+(X Y Z)
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+(X Y Z)
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+(X Y)
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+NIL
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (OR (removeNILMost  (CAR L)) (removeNILMost  (CDR L))))
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILMost(CDR L))))
+          (T (removeNILMost(CDR L)))
+    )
+)
+REMOVENILMOST
+
+
+
+(trace removeNILMost)
+WARNING: TRACE: redefining function REMOVENILMOST in /home/lmo120/courses/cs3723PL/Assignments/HW6/hw6Lisp.txt, was defined in top-level
+;; Tracing function REMOVENILMOST.
+(REMOVENILMOST)
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+1. Trace: (REMOVENILMOST '(NIL X NIL NIL Y NIL Z))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+2. Trace: (REMOVENILMOST '(X NIL NIL Y NIL Z))
+3. Trace: (REMOVENILMOST '(NIL NIL Y NIL Z))
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+4. Trace: (REMOVENILMOST '(NIL Y NIL Z))
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST '(Y NIL Z))
+6. Trace: (REMOVENILMOST '(NIL Z))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+7. Trace: (REMOVENILMOST '(Z))
+8. Trace: (REMOVENILMOST 'NIL)
+8. Trace: REMOVENILMOST ==> NIL
+7. Trace: REMOVENILMOST ==> (Z)
+6. Trace: REMOVENILMOST ==> (Z)
+5. Trace: REMOVENILMOST ==> (Y Z)
+4. Trace: REMOVENILMOST ==> (Y Z)
+3. Trace: REMOVENILMOST ==> (Y Z)
+2. Trace: REMOVENILMOST ==> (X Y Z)
+1. Trace: REMOVENILMOST ==> (X Y Z)
+(X Y Z)
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+1. Trace: (REMOVENILMOST '(X NIL (Y NIL Z) NIL))
+2. Trace: (REMOVENILMOST '(NIL (Y NIL Z) NIL))
+3. Trace: (REMOVENILMOST 'NIL)
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST '((Y NIL Z) NIL))
+4. Trace: (REMOVENILMOST '(Y NIL Z))
+5. Trace: (REMOVENILMOST '(NIL Z))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST '(Z))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> (Z)
+5. Trace: REMOVENILMOST ==> (Z)
+4. Trace: REMOVENILMOST ==> (Y Z)
+3. Trace: REMOVENILMOST ==> (Y Z)
+2. Trace: REMOVENILMOST ==> (Y Z)
+1. Trace: REMOVENILMOST ==> (X Y Z)
+(X Y Z)
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+1. Trace: (REMOVENILMOST '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+2. Trace: (REMOVENILMOST '((NIL) (X NIL Y) (NIL NIL) Z))
+3. Trace: (REMOVENILMOST '(NIL))
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST '((X NIL Y) (NIL NIL) Z))
+4. Trace: (REMOVENILMOST '(X NIL Y))
+5. Trace: (REMOVENILMOST '(NIL Y))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST '(Y))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> (Y)
+5. Trace: REMOVENILMOST ==> (Y)
+4. Trace: REMOVENILMOST ==> (X Y)
+3. Trace: REMOVENILMOST ==> (X Y)
+2. Trace: REMOVENILMOST ==> (X Y)
+1. Trace: REMOVENILMOST ==> (X Y)
+(X Y)
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+1. Trace: (REMOVENILMOST '(NIL ((((((NIL) NIL)))))))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+2. Trace: (REMOVENILMOST '(((((((NIL) NIL)))))))
+3. Trace: (REMOVENILMOST '((((((NIL) NIL))))))
+4. Trace: (REMOVENILMOST '(((((NIL) NIL)))))
+5. Trace: (REMOVENILMOST '((((NIL) NIL))))
+6. Trace: (REMOVENILMOST '(((NIL) NIL)))
+7. Trace: (REMOVENILMOST '((NIL) NIL))
+8. Trace: (REMOVENILMOST '(NIL))
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+8. Trace: REMOVENILMOST ==> NIL
+8. Trace: (REMOVENILMOST '(NIL))
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+8. Trace: REMOVENILMOST ==> NIL
+7. Trace: REMOVENILMOST ==> NIL
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+4. Trace: REMOVENILMOST ==> NIL
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST 'NIL)
+3. Trace: REMOVENILMOST ==> NIL
+2. Trace: REMOVENILMOST ==> NIL
+1. Trace: REMOVENILMOST ==> NIL
+NIL
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (AND (removeNILMost  (CAR L)) (removeNILMost  (CDR L))))
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILMost(CDR L))))
+          (T (removeNILMost(CDR L)))
+    )
+)
+REMOVENILMOST
+
+
+
+(trace removeNILMost)
+WARNING: TRACE: redefining function REMOVENILMOST in /home/lmo120/courses/cs3723PL/Assignments/HW6/hw6Lisp.txt, was defined in top-level
+;; Tracing function REMOVENILMOST.
+(REMOVENILMOST)
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+1. Trace: (REMOVENILMOST '(NIL X NIL NIL Y NIL Z))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+1. Trace: REMOVENILMOST ==> NIL
+NIL
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+1. Trace: (REMOVENILMOST '(X NIL (Y NIL Z) NIL))
+2. Trace: (REMOVENILMOST '(NIL (Y NIL Z) NIL))
+3. Trace: (REMOVENILMOST 'NIL)
+3. Trace: REMOVENILMOST ==> NIL
+2. Trace: REMOVENILMOST ==> NIL
+1. Trace: REMOVENILMOST ==> (X)
+(X)
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+1. Trace: (REMOVENILMOST '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+1. Trace: REMOVENILMOST ==> NIL
+NIL
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+1. Trace: (REMOVENILMOST '(NIL ((((((NIL) NIL)))))))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+1. Trace: REMOVENILMOST ==> NIL
+NIL
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (LET ((LEFTSIDE (removeNILMost (CAR L))) (RIGHTSIDE (removeNILMost (CDR L))))
+          (COND ( LEFTSIDE (CONS LEFTSIDE RIGHTSIDE))
+                ( T RIGHTSIDE))))
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILMost(CDR L))))
+          (T (removeNILMost(CDR L)))
+    )
+)
+REMOVENILMOST
+
+
+
+(trace removeNILMost)
+WARNING: TRACE: redefining function REMOVENILMOST in /home/lmo120/courses/cs3723PL/Assignments/HW6/hw6Lisp.txt, was defined in top-level
+;; Tracing function REMOVENILMOST.
+(REMOVENILMOST)
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+1. Trace: (REMOVENILMOST '(NIL X NIL NIL Y NIL Z))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+2. Trace: (REMOVENILMOST '(X NIL NIL Y NIL Z))
+3. Trace: (REMOVENILMOST '(NIL NIL Y NIL Z))
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+4. Trace: (REMOVENILMOST '(NIL Y NIL Z))
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST '(Y NIL Z))
+6. Trace: (REMOVENILMOST '(NIL Z))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+7. Trace: (REMOVENILMOST '(Z))
+8. Trace: (REMOVENILMOST 'NIL)
+8. Trace: REMOVENILMOST ==> NIL
+7. Trace: REMOVENILMOST ==> (Z)
+6. Trace: REMOVENILMOST ==> (Z)
+5. Trace: REMOVENILMOST ==> (Y Z)
+4. Trace: REMOVENILMOST ==> (Y Z)
+3. Trace: REMOVENILMOST ==> (Y Z)
+2. Trace: REMOVENILMOST ==> (X Y Z)
+1. Trace: REMOVENILMOST ==> (X Y Z)
+(X Y Z)
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+1. Trace: (REMOVENILMOST '(X NIL (Y NIL Z) NIL))
+2. Trace: (REMOVENILMOST '(NIL (Y NIL Z) NIL))
+3. Trace: (REMOVENILMOST 'NIL)
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST '((Y NIL Z) NIL))
+4. Trace: (REMOVENILMOST '(Y NIL Z))
+5. Trace: (REMOVENILMOST '(NIL Z))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST '(Z))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> (Z)
+5. Trace: REMOVENILMOST ==> (Z)
+4. Trace: REMOVENILMOST ==> (Y Z)
+4. Trace: (REMOVENILMOST '(NIL))
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> ((Y Z))
+2. Trace: REMOVENILMOST ==> ((Y Z))
+1. Trace: REMOVENILMOST ==> (X (Y Z))
+(X (Y Z))
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+1. Trace: (REMOVENILMOST '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+2. Trace: (REMOVENILMOST '((NIL) (X NIL Y) (NIL NIL) Z))
+3. Trace: (REMOVENILMOST '(NIL))
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST '((X NIL Y) (NIL NIL) Z))
+4. Trace: (REMOVENILMOST '(X NIL Y))
+5. Trace: (REMOVENILMOST '(NIL Y))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST '(Y))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> (Y)
+5. Trace: REMOVENILMOST ==> (Y)
+4. Trace: REMOVENILMOST ==> (X Y)
+4. Trace: (REMOVENILMOST '((NIL NIL) Z))
+5. Trace: (REMOVENILMOST '(NIL NIL))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST '(NIL))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST '(Z))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> (Z)
+4. Trace: REMOVENILMOST ==> (Z)
+3. Trace: REMOVENILMOST ==> ((X Y) Z)
+2. Trace: REMOVENILMOST ==> ((X Y) Z)
+1. Trace: REMOVENILMOST ==> ((X Y) Z)
+((X Y) Z)
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+1. Trace: (REMOVENILMOST '(NIL ((((((NIL) NIL)))))))
+2. Trace: (REMOVENILMOST 'NIL)
+2. Trace: REMOVENILMOST ==> NIL
+2. Trace: (REMOVENILMOST '(((((((NIL) NIL)))))))
+3. Trace: (REMOVENILMOST '((((((NIL) NIL))))))
+4. Trace: (REMOVENILMOST '(((((NIL) NIL)))))
+5. Trace: (REMOVENILMOST '((((NIL) NIL))))
+6. Trace: (REMOVENILMOST '(((NIL) NIL)))
+7. Trace: (REMOVENILMOST '((NIL) NIL))
+8. Trace: (REMOVENILMOST '(NIL))
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+8. Trace: REMOVENILMOST ==> NIL
+8. Trace: (REMOVENILMOST '(NIL))
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+8. Trace: REMOVENILMOST ==> NIL
+7. Trace: REMOVENILMOST ==> NIL
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> NIL
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+4. Trace: REMOVENILMOST ==> NIL
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST 'NIL)
+3. Trace: REMOVENILMOST ==> NIL
+2. Trace: REMOVENILMOST ==> NIL
+1. Trace: REMOVENILMOST ==> NIL
+NIL
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILMost (L)
+    (COND ((null L) nil)
+          ((NOT (ATOM (CAR L))) (CONS (removeNILMost (CAR L)) (removeNILMost (CDR L))))
+          ((EQL nil (CAR L)) (removeNILMost (CDR L)))
+          (T (CONS (CAR L) (removeNILMost (CDR L))))
+    )
+)
+REMOVENILMOST
+
+
+
+(trace removeNILMost)
+WARNING: TRACE: redefining function REMOVENILMOST in /home/lmo120/courses/cs3723PL/Assignments/HW6/hw6Lisp.txt, was defined in top-level
+;; Tracing function REMOVENILMOST.
+(REMOVENILMOST)
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+1. Trace: (REMOVENILMOST '(NIL X NIL NIL Y NIL Z))
+2. Trace: (REMOVENILMOST '(X NIL NIL Y NIL Z))
+3. Trace: (REMOVENILMOST '(NIL NIL Y NIL Z))
+4. Trace: (REMOVENILMOST '(NIL Y NIL Z))
+5. Trace: (REMOVENILMOST '(Y NIL Z))
+6. Trace: (REMOVENILMOST '(NIL Z))
+7. Trace: (REMOVENILMOST '(Z))
+8. Trace: (REMOVENILMOST 'NIL)
+8. Trace: REMOVENILMOST ==> NIL
+7. Trace: REMOVENILMOST ==> (Z)
+6. Trace: REMOVENILMOST ==> (Z)
+5. Trace: REMOVENILMOST ==> (Y Z)
+4. Trace: REMOVENILMOST ==> (Y Z)
+3. Trace: REMOVENILMOST ==> (Y Z)
+2. Trace: REMOVENILMOST ==> (X Y Z)
+1. Trace: REMOVENILMOST ==> (X Y Z)
+(X Y Z)
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+1. Trace: (REMOVENILMOST '(X NIL (Y NIL Z) NIL))
+2. Trace: (REMOVENILMOST '(NIL (Y NIL Z) NIL))
+3. Trace: (REMOVENILMOST '((Y NIL Z) NIL))
+4. Trace: (REMOVENILMOST '(Y NIL Z))
+5. Trace: (REMOVENILMOST '(NIL Z))
+6. Trace: (REMOVENILMOST '(Z))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> (Z)
+5. Trace: REMOVENILMOST ==> (Z)
+4. Trace: REMOVENILMOST ==> (Y Z)
+4. Trace: (REMOVENILMOST '(NIL))
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> ((Y Z))
+2. Trace: REMOVENILMOST ==> ((Y Z))
+1. Trace: REMOVENILMOST ==> (X (Y Z))
+(X (Y Z))
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+1. Trace: (REMOVENILMOST '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+2. Trace: (REMOVENILMOST '((NIL) (X NIL Y) (NIL NIL) Z))
+3. Trace: (REMOVENILMOST '(NIL))
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> NIL
+3. Trace: (REMOVENILMOST '((X NIL Y) (NIL NIL) Z))
+4. Trace: (REMOVENILMOST '(X NIL Y))
+5. Trace: (REMOVENILMOST '(NIL Y))
+6. Trace: (REMOVENILMOST '(Y))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> (Y)
+5. Trace: REMOVENILMOST ==> (Y)
+4. Trace: REMOVENILMOST ==> (X Y)
+4. Trace: (REMOVENILMOST '((NIL NIL) Z))
+5. Trace: (REMOVENILMOST '(NIL NIL))
+6. Trace: (REMOVENILMOST '(NIL))
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> NIL
+5. Trace: (REMOVENILMOST '(Z))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> (Z)
+4. Trace: REMOVENILMOST ==> (NIL Z)
+3. Trace: REMOVENILMOST ==> ((X Y) NIL Z)
+2. Trace: REMOVENILMOST ==> (NIL (X Y) NIL Z)
+1. Trace: REMOVENILMOST ==> (NIL (X Y) NIL Z)
+(NIL (X Y) NIL Z)
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+1. Trace: (REMOVENILMOST '(NIL ((((((NIL) NIL)))))))
+2. Trace: (REMOVENILMOST '(((((((NIL) NIL)))))))
+3. Trace: (REMOVENILMOST '((((((NIL) NIL))))))
+4. Trace: (REMOVENILMOST '(((((NIL) NIL)))))
+5. Trace: (REMOVENILMOST '((((NIL) NIL))))
+6. Trace: (REMOVENILMOST '(((NIL) NIL)))
+7. Trace: (REMOVENILMOST '((NIL) NIL))
+8. Trace: (REMOVENILMOST '(NIL))
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+8. Trace: REMOVENILMOST ==> NIL
+8. Trace: (REMOVENILMOST '(NIL))
+9. Trace: (REMOVENILMOST 'NIL)
+9. Trace: REMOVENILMOST ==> NIL
+8. Trace: REMOVENILMOST ==> NIL
+7. Trace: REMOVENILMOST ==> (NIL)
+7. Trace: (REMOVENILMOST 'NIL)
+7. Trace: REMOVENILMOST ==> NIL
+6. Trace: REMOVENILMOST ==> ((NIL))
+6. Trace: (REMOVENILMOST 'NIL)
+6. Trace: REMOVENILMOST ==> NIL
+5. Trace: REMOVENILMOST ==> (((NIL)))
+5. Trace: (REMOVENILMOST 'NIL)
+5. Trace: REMOVENILMOST ==> NIL
+4. Trace: REMOVENILMOST ==> ((((NIL))))
+4. Trace: (REMOVENILMOST 'NIL)
+4. Trace: REMOVENILMOST ==> NIL
+3. Trace: REMOVENILMOST ==> (((((NIL)))))
+3. Trace: (REMOVENILMOST 'NIL)
+3. Trace: REMOVENILMOST ==> NIL
+2. Trace: REMOVENILMOST ==> ((((((NIL))))))
+1. Trace: REMOVENILMOST ==> ((((((NIL))))))
+((((((NIL))))))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun reverseTop (L)
+    (COND ((NULL L) NIL)
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (reverseTop(CDR L))))
+          (T (reverseTop(CDR L)))
+    )
+)
+REVERSETOP
+
+
+
+
+
+
+;;; #3 reverseTop
+
+(reverseTop '(X Y Z))
+(X Y Z)
+
+(reverseTop '(X (Y Z (A)) (W)))
+(X (Y Z (A)) (W))
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun reverseTop (L)
+    (COND ((NULL L) NIL)
+          (T (reverse(L)))
+    )
+)
+REVERSETOP
+
+
+
+
+
+
+;;; #3 reverseTop
+
+(reverseTop '(X Y Z))
+*** - EVAL: undefined function L
+
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun reverseTop (L)
+    (COND ((NULL L) NIL)
+          (T (reverse L ))
+    )
+)
+REVERSETOP
+
+
+
+
+
+
+;;; #3 reverseTop
+
+(reverseTop '(X Y Z))
+(Z Y X)
+
+(reverseTop '(X (Y Z (A)) (W)))
+((W) (Y Z (A)) X)
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun reverseTop (L)
+    (COND ((NULL L) NIL)
+          (T (APPEND (reverseTop (CDR L)) (LIST (CAR L))))
+    )
+)
+REVERSETOP
+
+
+
+
+
+
+;;; #3 reverseTop
+
+(reverseTop '(X Y Z))
+(Z Y X)
+
+(reverseTop '(X (Y Z (A)) (W)))
+((W) (Y Z (A)) X)
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun reverseAll (L)
+    (COND ((NULL L) NIL)
+          (T (APPEND (reverseAll (CDR L)) (LIST (CAR L))))
+    )
+)
+REVERSEALL
+
+
+
+
+
+
+
+;;; #4 reverseALL
+
+(reverseAll '(X Y Z))
+(Z Y X)
+
+(reverseAll '(X (Y Z (A)) (W)))
+((W) (Y Z (A)) X)
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun reverseAll (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (APPEND (reverseAll (CDR L)) (LIST (reverseAll (CAR L)))))
+          (T (APPEND (reverseAll (CDR L)) (LIST (CAR L))))
+    )
+)
+REVERSEALL
+
+
+
+
+
+
+
+;;; #4 reverseALL
+
+(reverseAll '(X Y Z))
+(Z Y X)
+
+(reverseAll '(X (Y Z (A)) (W)))
+((W) ((A) Z Y) X)
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun palindrome (L)
+    (cond ((null L) nil)
+          (T (reverse L))
+    )
+)
+PALINDROME
+
+
+
+
+;;; #5 palindrome
+
+(palindrome '(R A C E C A R))
+(R A C E C A R)
+
+(palindrome '(W A S I T A C A R O R A C A T I S A W))
+(W A S I T A C A R O R A C A T I S A W)
+
+(palindrome '(N I X O N))
+(N O X I N)
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun palindrome (L)
+    (cond ((null L) nil)
+          (T (equal L (reverse L)))
+    )
+)
+PALINDROME
+
+
+
+
+;;; #5 palindrome
+
+(palindrome '(R A C E C A R))
+T
+
+(palindrome '(W A S I T A C A R O R A C A T I S A W))
+T
+
+(palindrome '(N I X O N))
+NIL
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILALL (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (LET ((LEFT (removeNILALL (CAR L))) (RIGHT (removeNILALL (CDR L))))
+          (COND ( LEFT (CONS LEFT RIGHT))
+                ( T RIGHT))))
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILALL(CDR L))))
+          (T (APPEND (reverseNILALL(CDR L)) (remverseNILALL (CAR L))))
+    )
+)
+REMOVENILALL
+
+
+
+;;; #6 removeNILALL
+
+(removeNILAll '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+((X Y) Z)
+
+(removeNILAll '(NIL ( (((((NIL) NIL)))))))
+NIL
+
+(removeNILAll '(NIL (X (NIL) Y) ((NIL)) ))
+((X Y))
+
+(removeNILAll '(NIL (((X ((((((((((NIL)))))))))) Y) Z) W) (((NIL))) ))
+((((X Y) Z) W))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)
+    (COND ((NULL L) NIL)
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILTop(CDR L))))
+          (T (removeNILTop(CDR L)))
+    )
+)
+REMOVENILTOP
+
+
+;;;  #1 removeNILTop
+
+(removeNILTop '(NIL X NIL NIL Y  NIL Z))
+(X Y Z)
+
+(removeNILTop '(X NIL Y NIL Z NIL))
+(X Y Z)
+
+(removeNILTop '(NIL (X NIL Y) (NIL NIL)))
+((X NIL Y) (NIL NIL))
+
+
+
+(defun removeNILMost (L)
+    (COND ((null L) nil)
+          ((NOT (ATOM (CAR L))) (CONS (removeNILMost (CAR L)) (removeNILMost (CDR L))))
+          ((EQL nil (CAR L)) (removeNILMost (CDR L)))
+          (T (CONS (CAR L) (removeNILMost (CDR L))))
+    )
+)
+REMOVENILMOST
+
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+(X Y Z)
+
+(removeNILMost '(X NIL (Y NIL Z) NIL))
+(X (Y Z))
+
+(removeNILMost '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+(NIL (X Y) NIL Z)
+
+(removeNILMost '(NIL ( (((((NIL) NIL)))))))
+((((((NIL))))))
+
+
+
+(defun reverseTop (L)
+  (cond ((NULL L) nil)
+        (T (APPEND (reverseTop (CDR L)) (LIST (CAR L))))
+  )
+
+)
+REVERSETOP
+
+
+;;; #3 reverseTop
+
+(reverseTop '(X Y Z))
+(Z Y X)
+
+(reverseTop '(X (Y Z (A)) (W)))
+((W) (Y Z (A)) X)
+
+
+(defun reverseAll (L)
+  (cond ((NULL L) nil)
+        ((LISTP (CAR L)) (APPEND (reverseAll (CDR L)) (LIST (reverseAll (CAR L)))))
+        (T (APPEND (reverseALL(CDR L)) (LIST (CAR L))))
+  )
+
+)
+REVERSEALL
+
+
+;;; #4 reverseALL
+
+(reverseAll '(X Y Z))
+(Z Y X)
+
+(reverseAll '(X (Y Z (A)) (W)))
+((W) ((A) Z Y) X)
+
+
+(defun palindrome (L)
+    (cond ((null L) nil)
+          (T (equal L (reverse L)))
+    )
+)
+PALINDROME
+
+
+;;; #5 palindrome
+
+(palindrome '(R A C E C A R))
+T
+
+(palindrome '(W A S I T A C A R O R A C A T I S A W))
+T
+
+(palindrome '(N I X O N))
+NIL
+
+
+
+(defun removeNILALL (L)
+    (COND ((NULL L) NIL)
+          ((LISTP (CAR L)) (LET ((LEFT (removeNILALL (CAR L))) (RIGHT (removeNILALL (CDR L))))
+          (COND ( LEFT (CONS LEFT RIGHT))
+                ( T RIGHT))))
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILALL(CDR L))))
+          (T (APPEND (reverseNILALL(CDR L)) (remverseNILALL (CAR L))))
+    )
+)
+REMOVENILALL
+
+
+
+;;; #6 removeNILALL
+
+(removeNILAll '(NIL (NIL) (X NIL Y) (NIL NIL) Z))
+((X Y) Z)
+
+(removeNILAll '(NIL ( (((((NIL) NIL)))))))
+NIL
+
+(removeNILAll '(NIL (X (NIL) Y) ((NIL)) ))
+((X Y))
+
+(removeNILAll '(NIL (((X ((((((((((NIL)))))))))) Y) Z) W) (((NIL))) ))
+((((X Y) Z) W))
+
+
+;; Loaded file hw6Lisp.txt
+T
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$ clisp -x '(LOAD "hw6Lisp.txt" :ECHO T :PRINT T)'
+  i i i i i i i       ooooo    o        ooooooo   ooooo   ooooo
+  I I I I I I I      8     8   8           8     8     o  8    8
+  I  \ `+' /  I      8         8           8     8        8    8
+   \  `-+-'  /       8         8           8      ooooo   8oooo
+    `-__|__-'        8         8           8           8  8
+        |            8     o   8           8     o     8  8
+  ------+------       ooooo    8oooooo  ooo8ooo   ooooo   8
+
+Welcome to GNU CLISP 2.49 (2010-07-07) <http://clisp.cons.org/>
+
+Copyright (c) Bruno Haible, Michael Stoll 1992, 1993
+Copyright (c) Bruno Haible, Marcus Daniels 1994-1997
+Copyright (c) Bruno Haible, Pierpaolo Bernardi, Sam Steingold 1998
+Copyright (c) Bruno Haible, Sam Steingold 1999-2000
+Copyright (c) Sam Steingold, Bruno Haible 2001-2010
+
+Type :h and hit Enter for context help.
+
+;; Loading file hw6Lisp.txt ...
+(defun removeNILTop (L)                                                            ;;;removeNILTop is passed a list and removes NIL at the top level.
+    (COND ((NULL L) NIL)                                                           ;;; if list is null return NIL
+          ((NOT (EQL nil (CAR L))) (CONS (CAR L) (removeNILTop(CDR L))))           ;;; checks to see if CAR L is not EQL to NIL CONS IF SO CONS CAR L and recurse
+          (T (removeNILTop(CDR L)))                                                ;;; Else recurse with CDR L
+    )
+)
+REMOVENILTOP
+
+
+;;;  #1 removeNILTop
+
+(removeNILTop '(NIL X NIL NIL Y  NIL Z))
+(X Y Z)
+
+(removeNILTop '(X NIL Y NIL Z NIL))
+(X Y Z)
+
+(removeNILTop '(NIL (X NIL Y) (NIL NIL)))
+((X NIL Y) (NIL NIL))
+
+
+
+(defun removeNILMost (L)
+    (COND ((null L) nil)
+          ((NOT (EQL nil (CAR L))) (CONS (removeNILMost (CAR L)) (removeNILMost (CDR L))))
+          ((EQL nil (CAR L)) (removeNILMost (CDR L)))
+          (T (CONS (CAR L) (removeNILMost (CDR L))))
+    )
+)
+REMOVENILMOST
+
+
+
+
+;;; #2 removeNILMost
+
+(removeNILMost '(NIL X NIL NIL Y  NIL Z))
+*** - CAR: X is not a list
+
+Bye.
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW6$
+Network error: Software caused connection abort
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Session stopped
+    - Press <return> to exit tab
+    - Press R to restart session
+    - Press S to save terminal output to file
+

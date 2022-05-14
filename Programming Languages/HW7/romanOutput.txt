@@ -1,0 +1,6 @@
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW7$ python3 roman.py 812 43
+812 is DCCCXII and 43 is XLIII
+
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW7$ python3 roman.py 49 5000
+49 is XLIX and 5000 is ERROR
+

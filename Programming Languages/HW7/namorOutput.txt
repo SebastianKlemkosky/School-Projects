@@ -1,0 +1,6 @@
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW7$ python3 namor.py CCCXIV
+CCCXIV is 314
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW7$ python3 namor.py MCMXCIX
+MCMXCIX is 1999
+lmo120@fox03:~/courses/cs3723PL/Assignments/HW7$ python3 namor.py 123 MMMM II
+123 is -1 and MMMM is -1 and II is 2

@@ -1,0 +1,1395 @@
+==============================================================
+Guild: Spring 2021 SE Group Project
+Channel: Text Channels / general
+==============================================================
+
+[28-Jan-21 12:17 PM] Frank A. Idrogo (drs721)#6456
+Joined the server.
+
+
+[28-Jan-21 12:19 PM] yung_odin#7606
+Joined the server.
+
+
+[28-Jan-21 12:19 PM] yung_odin#7606
+hello there
+
+
+[28-Jan-21 12:19 PM] Sebs#5610
+Joined the server.
+
+
+[28-Jan-21 12:19 PM] Sebs#5610
+howdy
+
+
+[28-Jan-21 12:21 PM] Frank A. Idrogo (drs721)#6456
+Hey everyone
+
+
+[28-Jan-21 12:21 PM] Rpz701#6053
+Awesome, 4 people is good enough. I invited everyone from the SE chat until drs721 but if Iris decides not to join the server we can invite one more. For now we can go ahead and brainstorm software requirements! I still need to read the full assignment description.
+
+{Reactions}
+👍 
+
+[28-Jan-21 12:24 PM] iris han#7518
+Joined the server.
+
+
+[28-Jan-21 12:25 PM] iris han#7518
+Sorry y’all, I was out shopping and just saw the invite. Happy to join you guys!
+
+
+[28-Jan-21 12:27 PM] Rpz701#6053
+No worries! That's five then! Looks like we got plenty of time to figure out the details of the project, but if anyone gets some crazy inspiration in the mean time-about the project or how we should make the teamwork work-feel free to just post here.
+
+{Reactions}
+👍 (2) 
+
+[28-Jan-21 01:10 PM] Rpz701#6053
+If y'all would like I can update the spreadsheet with our info. You can just put your name and abc123 in here. Or, if you see me filling it out in one of the rows on the spreadsheet just update it there.
+
+
+[28-Jan-21 01:10 PM] Frank A. Idrogo (drs721)#6456
+Sounds good
+
+
+[28-Jan-21 01:10 PM] iris han#7518
+Sure, mine's Iris Han ymj140
+
+
+[28-Jan-21 01:11 PM] Rpz701#6053
+Alright. We're group 6.
+
+
+[28-Jan-21 01:15 PM] Rpz701#6053
+https://docs.google.com/spreadsheets/d/1AYnFDMyfwLFfPzwl7LNxCVr__G7ETMphW_-In_Nlxk8/edit?usp=sharing
+
+{Embed}
+https://docs.google.com/spreadsheets/d/1AYnFDMyfwLFfPzwl7LNxCVr__G7ETMphW_-In_Nlxk8/edit?usp=sharing
+3773 SE groups
+Sheet1
+
+Member 1,Member 2,Member 3,Member 4,Member 5 (optional)
+Name ,abc123 ,Name ,abc123 ,Name ,abc123 ,Name ,abc123 ,Name ,abc123 
+Group 1,Anna Arroyo,kvk745,Anna Flores,Vi Vu,phh293,Cody Gill,byq195,Juan Neri
+Group 2
+Group 3
+Group 4
+Group 5
+Group 6
+Group 7
+Group 8
+Group 9
+Group 10
+Group 11
+Gr...
+https://lh4.googleusercontent.com/dkW_YnN_cQx08fmpIakGTTaY-Ojhu1C8kr3mvXPMVuM_-n3ROOBix6jFTodlPKTfqZUexne0DA=w1200-h630-p
+
+
+[28-Jan-21 01:17 PM] yung_odin#7606
+should I add myself
+
+
+[28-Jan-21 01:17 PM] Rpz701#6053
+Sure! I would but i don't know your name & info.
+
+
+[28-Jan-21 01:17 PM] yung_odin#7606
+Russell Gardner
+
+
+[28-Jan-21 01:17 PM] yung_odin#7606
+gct762
+
+
+[28-Jan-21 01:18 PM] Rpz701#6053
+Great. Now er just need sebs
+
+
+[28-Jan-21 01:19 PM] Sebs#5610
+Sebastian Klemkosky
+
+
+[28-Jan-21 01:19 PM] Sebs#5610
+lmo120
+
+{Reactions}
+👍 
+
+[28-Jan-21 01:20 PM] Rpz701#6053
+We're the first one's to have it all filled in.
+
+
+[28-Jan-21 01:20 PM] Sebs#5610
+nice nice
+
+
+[28-Jan-21 02:07 PM] yung_odin#7606
+I'd say we should attempt to decide which sub-system we are working on first. Any feelings?
+
+
+[28-Jan-21 02:09 PM] Rpz701#6053
+I feel like the least accessible one is probably the mobile interface. But, depending on the language we pick and gui that could be made easier. But If we need, we can always figure out a new language. I'm sure we all have javafx experience from app development.
+
+
+[28-Jan-21 02:10 PM] Sebs#5610
+yeah i reckon java would be easier for everyone
+
+
+[28-Jan-21 02:13 PM] yung_odin#7606
+kotlin would be pretty fun for an android app. I haven't made a project in it yet only messed with it, really good built in mobile dev stuff. But if we just want to keep it simple I have no problem with java
+
+
+[27-Feb-21 03:11 PM] Sebs#5610
+has anyone started working on the Project checkpoint 1 yet
+
+
+[27-Feb-21 03:12 PM] Sebs#5610
+if not I can try to get some of it done tommorrow ish and post it here
+
+
+[27-Feb-21 03:14 PM] Sebs#5610
+then we can all  revise or edit it if necessary and turn in something when it's due on the 4th
+
+
+[27-Feb-21 03:33 PM] Rpz701#6053
+Sounds good to me. I've had a couple of essays, in addition to the one from a few nights ago, I've been working on. Should be finished and free to work on checkpoint tomorrow night.
+
+
+[28-Feb-21 02:17 PM] Sebs#5610
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/815679213285801984/SRS_v1.01.doc
+
+
+[28-Feb-21 02:24 PM] Sebs#5610
+I was unable to complete the functional requirements but everything else has at least something. If you want to add or change anything then go for it, however do write it in the revision history portion.
+
+
+[28-Feb-21 02:29 PM] Sebs#5610
+https://docs.google.com/document/d/1G0uxmt1mzmvsk_JgpN3lVGG5IM81XgFAd15h9R5NtYM/edit?usp=sharing
+
+{Embed}
+https://docs.google.com/document/d/1G0uxmt1mzmvsk_JgpN3lVGG5IM81XgFAd15h9R5NtYM/edit?usp=sharing
+SRS_v1.01
+Software Requirements Specification for  Version 1.01 approved Prepared by   <2/28/2021> Table of Contents Table of Contents	ii Revision History	ii 1.	Introduction	1 1.1	Purpose	1 1.2	Document Conventions	1 1.3	Intended Audience and Reading Sugges...
+https://lh3.googleusercontent.com/y_WjpZzAtoms2r2XC8fYPH3sNgBmPVR0TNbe69YwDC3ZUTVHFwQOHZBWIdx5KiAGeDHH-T55Rae7tw=w1200-h630-p
+
+
+[28-Feb-21 02:30 PM] Sebs#5610
+I uploaded this to docs so we can easily all edit. The link should work if not let me know
+
+
+[01-Mar-21 09:42 AM] Frank A. Idrogo (drs721)#6456
+Thanks for starting the document Sebastian. I'm looking at it right now and it seems like it can't be edited at the moment. Can you change the setting to allow editing from others?
+
+
+[01-Mar-21 02:29 PM] Sebs#5610
+https://docs.google.com/document/d/1G0uxmt1mzmvsk_JgpN3lVGG5IM81XgFAd15h9R5NtYM/edit?usp=sharing
+
+{Embed}
+https://docs.google.com/document/d/1G0uxmt1mzmvsk_JgpN3lVGG5IM81XgFAd15h9R5NtYM/edit?usp=sharing
+SRS_v1.01
+Software Requirements Specification for  Version 1.01 approved Prepared by   <2/28/2021> Table of Contents Table of Contents	ii Revision History	ii 1.	Introduction	1 1.1	Purpose	1 1.2	Document Conventions	1 1.3	Intended Audience and Reading Sugges...
+https://lh3.googleusercontent.com/y_WjpZzAtoms2r2XC8fYPH3sNgBmPVR0TNbe69YwDC3ZUTVHFwQOHZBWIdx5KiAGeDHH-T55Rae7tw=w1200-h630-p
+
+
+[01-Mar-21 02:30 PM] Sebs#5610
+my bad didn't realize that. I changed it so anyone can edit now
+
+
+[02-Mar-21 01:19 PM] Rpz701#6053
+Wow, I honestly didn't realize the project was 40%
+
+
+[02-Mar-21 01:23 PM] Rpz701#6053
+We really should get on a call and brainstorm the use cases. Those are tricky to come up with on your own.
+
+
+[02-Mar-21 01:36 PM] Sebs#5610
+Yeah it would be a good idea
+
+
+[02-Mar-21 01:43 PM] Frank A. Idrogo (drs721)#6456
+Agreed, I'm down to jump on a call sometime
+
+
+[02-Mar-21 01:46 PM] Sebs#5610
+I'm a bit busy between all my courses could we meet after the midterm on the 4th to finish the doc
+
+
+[02-Mar-21 01:47 PM] Rpz701#6053
+Sounds good to me.
+
+
+[02-Mar-21 01:48 PM] Frank A. Idrogo (drs721)#6456
+Yeah, that's cool with me
+
+
+[02-Mar-21 02:08 PM] yung_odin#7606
+I'm also down to call. When is this part due again?
+
+
+[02-Mar-21 02:09 PM] Rpz701#6053
+the 4th. It might make sense to put in a few use cases just for the feedback but i don't know if we'll be able to meet with midterms this week
+
+
+[02-Mar-21 02:13 PM] yung_odin#7606
+Gotcha. I'm tied for up tonight, but I up for a call tomorrow as well as thursday
+
+
+[04-Mar-21 02:24 PM] Sebs#5610
+I saw that the doc is now due on the 5th did we still want to meet to complete it today or should we move it to tomorrow
+
+
+[04-Mar-21 05:28 PM] Rpz701#6053
+I finished up my midterm. Tomorrow morning I'll be driving down to corpus for a couple hours but i'
+
+
+[04-Mar-21 05:29 PM] Rpz701#6053
+ll be available following that. We should just find a time when most people are available to finish it up
+
+
+[04-Mar-21 07:01 PM] Sebs#5610
+Okay sounds good, I did write down some functional requirements and cases just so we had something there as well as made a portion of the use case diagram
+
+
+[05-Mar-21 01:06 PM] Frank A. Idrogo (drs721)#6456
+Let's try to set up a time to meet today. I have work probably until about 5pm or so. How does 6pm CST work for everyone? If anyone has other times that would work better for them, throw them in the chat
+
+
+[05-Mar-21 02:09 PM] Frank A. Idrogo (drs721)#6456
+Here is another SRS document I found that can be used as a reference https://my.eng.utah.edu/~blatnick/cs4500/SRS.pdf
+
+
+[05-Mar-21 02:10 PM] Frank A. Idrogo (drs721)#6456
+Have we decided we're building this project in Java after all?
+
+
+[05-Mar-21 02:12 PM] Rpz701#6053
+I'll be available at 6. Java and javafx makes sense as I would expect most people have some software for that installed already but I would say its more something that anyone can veto if they don't want or don't feel comfortable with java. I'm up for anything, it's a pretty simple software as far as the UI goes so I don't expect the language we use to have that big of an impact.
+
+{Reactions}
+👍 
+
+[05-Mar-21 02:43 PM] yung_odin#7606
+Java and JavaFX are fine with me. No nays here. Is everyone in the know for git?
+
+
+[05-Mar-21 02:50 PM] Frank A. Idrogo (drs721)#6456
+Cool with me, and yeah I know git
+
+
+[05-Mar-21 06:02 PM] Frank A. Idrogo (drs721)#6456
+6:05 we'll go ahead and start
+
+
+[05-Mar-21 06:08 PM] Sebs#5610
+https://krazytech.com/projects/sample-software-requirements-specificationsrs-report-airline-database
+
+{Embed}
+Ravi Bandakkanavar
+https://krazytech.com/projects/sample-software-requirements-specificationsrs-report-airline-database
+Software Requirements Specification document with example - Krazytech
+Software requirements specification document describes the intended purpose and environment for software/application under development
+https://i1.wp.com/krazytech.com/wp-content/uploads/2017/07/Contents-in-Software-Requirements-Specification-document.jpg?fit=605%2C701&ssl=1
+
+
+[05-Mar-21 06:09 PM] Rpz701#6053
+Sorry guys my microphone seems to not be working in the discord. I'm listening!
+
+{Reactions}
+👍 
+
+[05-Mar-21 06:10 PM] Frank A. Idrogo (drs721)#6456
+No worries, type anything if you have any suggestions
+
+
+[05-Mar-21 06:10 PM] Rpz701#6053
+Lol I can hear fine. Feel free to just reply to me in the call.
+
+
+[05-Mar-21 06:14 PM] Rpz701#6053
+I'm sure if we put it we'll get feedback like 'you don't need' or 'you WILL need' whatever we put
+
+
+[05-Mar-21 06:14 PM] Rpz701#6053
+Best to err on the side of extra
+
+
+[05-Mar-21 06:15 PM] iris han#7518
+Hey sorry guys, I’m driving at the moment but I’ll join in 5-10 min!
+
+{Reactions}
+👍 (2) 
+
+[05-Mar-21 06:38 PM] Rpz701#6053
+Drivers makes more sense as shoppers adds a level of ambiguity/ confusion with customers
+
+
+[25-Mar-21 10:23 PM] Sebs#5610
+Great job! Just remember to add the Shopper user class (i.e. the employee who physically collects the groceries at the distribution center and loads them into the driver's vehicle).
+
+Hey we got feedback for the Doc
+
+
+[25-Mar-21 10:57 PM] yung_odin#7606
+Sounds like we got the right idea
+
+
+[27-Mar-21 03:04 PM] Sebs#5610
+checkpoint 2 for the project is coming up. I'm a bit busy with school work this week so I'm unsure how much I can do but if someone wants to start on it before then that would great. Also at some point we should update the SRS doc since we got feedback. It seems like we are on the right track just need to add a missing class
+
+
+[27-Mar-21 03:04 PM] Sebs#5610
+Also also we should plan another meeting like last time to go over it and add to it before the due date
+
+
+[30-Mar-21 12:40 PM] Sebs#5610
+I'm going to start working the the checkpoint right now if anyone has started/completed any part of it let me know and I'll work on the other parts
+
+
+[30-Mar-21 12:44 PM] Rpz701#6053
+I had started writing a class diagram for the customer class based off of the use-case diagram we made for checkpoint 1 but it's a little vague like the one they asked for on the test. At this point it could be completely re-written with hardly any consequence.
+
+
+[30-Mar-21 12:49 PM] Sebs#5610
+if possible could you finish the class diagram for all of the classes before the due date, this way I could start on the state diagram and so on
+
+
+[30-Mar-21 12:50 PM] Rpz701#6053
+No worries.
+
+
+[30-Mar-21 12:51 PM] Rpz701#6053
+I'll post a link to my project file in google docs so people can make changes to it if they'd like.
+
+
+[30-Mar-21 12:58 PM] Sebs#5610
+that would be a good idea, we can post all of the diagrams there at some point. would you be able to finish the class diagram portion before the due date or should I also work on it. To me it would make more sense for each of us to do one of the diagrams then meet up and go over and edit them if needed.
+
+
+[30-Mar-21 01:10 PM] Sebs#5610
+I'm going to work on the state diagram right now
+
+
+[30-Mar-21 02:21 PM] Sebs#5610
+I was able to complete the state diagram, we only really needed one so I chose the customer class as it seemed to be very simple.
+
+
+[30-Mar-21 02:23 PM] Sebs#5610
+If you guys can at some point sort out who going to do which diagram then tomorrow I can look at the chat and just finish whatever diagram wasn't picked and on Thursday we can combine them all in a doc to submit
+
+
+[30-Mar-21 02:30 PM] Sebs#5610
+also start thinking about which subsystem we want to do for the project we can choose one on Thursday as well
+
+
+[30-Mar-21 02:51 PM] Rpz701#6053
+Is this checkpoint do Thursday before class or midnight Thursday?
+
+
+[30-Mar-21 03:12 PM] Sebs#5610
+it says April 1st so I'm assuming we turn at some point on that day
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/826549587941916752/kqzMB7VWkSkIAEJCCByKgcGXUTmZTfJyY4vO3HxRMZuqcXfS7cR56Ry8UUtXXRKQgAQkIIFKFlC4quTua8SkIAEJCABCZRdQOGq7.png
+
+
+[30-Mar-21 06:20 PM] Rpz701#6053
+https://drive.google.com/drive/folders/15A5WRFtuPe30UV-Ggbmughh_2gOlNefT?usp=sharing
+
+
+[30-Mar-21 06:22 PM] Rpz701#6053
+There's also a link to the specification we turned in for checkpoint 1 in the folder. When yall click the link I should be able to give permissions to edit the folder as I see your accounts on drive but for some reason I can't give permission to edit through the link, or at least it doesn't seem that way.
+
+
+[30-Mar-21 06:24 PM] Rpz701#6053
+The class I made used the requirements and use case but there was some vagueness and extra requirements that I tried to sort out so it won't be the exact same and might have some excess classes in it. Anyone is of course welcome to make changes to it as ya'll see fit. My class diagrams are almost always completely re-made during implementation anyway.
+
+
+[30-Mar-21 06:30 PM] Rpz701#6053
+Should be fixed so that you just need the link to edit now.
+
+
+[31-Mar-21 03:20 PM] Sebs#5610
+Since no one posted anything about the other diagrams I finished them. All we need is the class diagram. @Rpz701  do you think you can finish the Class diagram or should I do that one as well
+
+
+[31-Mar-21 03:20 PM] Rpz701#6053
+its in that folder I shaerd.
+
+
+[31-Mar-21 03:20 PM] Rpz701#6053
+Shared*
+
+
+[31-Mar-21 03:22 PM] Sebs#5610
+is it finished?
+
+
+[31-Mar-21 03:23 PM] Rpz701#6053
+Based off the unfinished requirements from checkpoint 1, sorta. I posted because I wanted feedback on it.
+
+
+[31-Mar-21 03:25 PM] Sebs#5610
+I didn't realize you wanted feedback. It looks alright. Do you think you can finish it and add the other classes before the due date
+
+
+[31-Mar-21 03:26 PM] Rpz701#6053
+Driver and store manager? sure, I would just make them extensions of the account class.
+
+
+[31-Mar-21 03:26 PM] Sebs#5610
+yeah thats works
+
+
+[31-Mar-21 03:27 PM] Sebs#5610
+also we need a shopper class
+
+
+[31-Mar-21 03:29 PM] Rpz701#6053
+Forgot about that one. no worries. I'll have it done by 5ish.
+
+
+[31-Mar-21 03:29 PM] Sebs#5610
+ty very much
+
+
+[31-Mar-21 03:30 PM] Sebs#5610
+there might more classes as well I would read over the project description
+
+
+[31-Mar-21 03:31 PM] Sebs#5610
+I think making a product class and a payment class would also be good
+
+
+[31-Mar-21 04:33 PM] Rpz701#6053
+alright, So obviously this isn't full functional, and based on more requirements than the checkpoint one had, but, given that the checkpoint asked for only important classes I feel comfortable leaving out the browseView and manageView classes we would probably implement later. Take a look and let me know what yall think.
+
+
+[31-Mar-21 04:49 PM] Sebs#5610
+I think that looks good and we can always change/ add to it in the future but anyway good job
+
+{Reactions}
+👍 
+
+[31-Mar-21 04:51 PM] Sebs#5610
+I'm going to put all of the diagrams in 1 doc and submit it in few mins as well as add them to the group project folder
+
+
+[31-Mar-21 05:17 PM] Sebs#5610
+I turned in the project and uploaded the files to the group folder. The files are a pdf and some pngs of the diagrams
+
+
+[31-Mar-21 05:31 PM] Sebs#5610
+Next we need to choose the sub system we want to implement. Tomorrow we can discuss it more. I'm thinking the customer portal might easier to implement
+
+
+[01-Apr-21 01:54 PM] Sebs#5610
+At some point today I'll send that email to the professor with our names and the sub system we want to work on. I was thinking we should do a customer portal(web) but if you want to do a different sub system then we can change it
+
+
+[01-Apr-21 02:01 PM] Frank A. Idrogo (drs721)#6456
+Hey ya'll, sorry I've been absent a bit. I'm cool with a customer portal
+
+
+[01-Apr-21 02:20 PM] Sebs#5610
+Now that I think about it, It might be easier to make a mobile app than on the web so I might send that one in instead. I'm sure we can change it if we decide later that we aren't going to do that
+
+
+[05-Apr-21 11:00 PM] iris han#7518
+Hey @Sebs did you see the professor’s email? I think you might’ve forgotten to include a couple of us in the group in your original email to her
+
+
+[05-Apr-21 11:02 PM] iris han#7518
+If you could just clarify with her what all the team member names are that would be great
+
+
+[05-Apr-21 11:02 PM] Rpz701#6053
+Weird. We plugged in all the group members into the spreadsheet. I must have missed the email.
+
+
+[05-Apr-21 11:03 PM] iris han#7518
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/828842403581526016/image0.png
+
+
+[05-Apr-21 11:04 PM] yung_odin#7606
+Was just about to respond to her, but if Sebastian wants to answer for clean communication that is fine by me
+
+
+[05-Apr-21 11:05 PM] Sebs#5610
+i didn't see the email yet my bad
+
+
+[05-Apr-21 11:05 PM] Rpz701#6053
+huh. I Don't think I got that either.
+
+
+[05-Apr-21 11:06 PM] Sebs#5610
+also you guys didn't respond during the checkpoint 2 at all so i kinda assumed you weren't enrolled in the course anymore or something along those lines
+
+
+[05-Apr-21 11:08 PM] Rpz701#6053
+Well last week was busy for everyone if yall's classes look anything like mine. You took on most of checkpoint 2, Sebastian. Thanks for that! The work could definitely be a little more decentralized going forward.
+
+
+[05-Apr-21 11:09 PM] Sebs#5610
+Yeah I'll send an email back to the professor in a few mins
+
+
+[05-Apr-21 11:10 PM] iris han#7518
+Sounds good, thanks! Yeah it’s definitely been busy but let’s all set up meeting times to work on the group project going forward.
+
+
+[05-Apr-21 11:10 PM] yung_odin#7606
+Its all good. Life kinda handed me a pretty shitty hand last couple of weeks and ended up taking too much of myself to handle, but its basically back on track. Which is still my bad for the lack of contact
+
+
+[21-Apr-21 08:40 PM] Frank A. Idrogo (drs721)#6456
+Hey everyone, should we try to have a short meeting this week so we can all get on the same page on what we're making and assign some roles? The due date is gonna be here before we know it
+
+
+[21-Apr-21 09:44 PM] Rpz701#6053
+That sounds good to me. Whenever works for me.
+
+
+[22-Apr-21 10:30 AM] Sebs#5610
+Sure I'm available whenever
+
+
+[22-Apr-21 04:00 PM] Frank A. Idrogo (drs721)#6456
+Cool, I have a pretty loaded schedule today but can you guys meet tomorrow or Saturday? What day works better for you all?
+
+
+[22-Apr-21 04:04 PM] Rpz701#6053
+Since Sebastian and I are available it's up to @yung_odin  and @iris han to set some kind of limitations.
+
+
+[22-Apr-21 04:06 PM] yung_odin#7606
+I'm busy today but tomorrow and Saturday are also good for me.
+
+
+[23-Apr-21 12:16 PM] iris han#7518
+I’m available today or tomorrow
+
+
+[23-Apr-21 12:17 PM] iris han#7518
+How about tomorrow then? Maybe in the early afternoon if everyone is free?
+
+
+[23-Apr-21 12:20 PM] Sebs#5610
+Yeah that works
+
+
+[23-Apr-21 12:22 PM] iris han#7518
+So like 1pm tomorrow?
+
+
+[23-Apr-21 12:22 PM] iris han#7518
+Is that okay with everyone
+
+
+[23-Apr-21 12:22 PM] Sebs#5610
+yup
+
+{Reactions}
+👍 (2) 
+
+[23-Apr-21 12:23 PM] iris han#7518
+@Rpz701 @yung_odin @Frank A. Idrogo (drs721)
+
+
+[23-Apr-21 02:24 PM] Frank A. Idrogo (drs721)#6456
+Yeah, 1pm tomorrow works for me
+
+{Reactions}
+👍 
+
+[23-Apr-21 02:51 PM] Rpz701#6053
+All good.
+
+{Reactions}
+👍 
+
+[23-Apr-21 03:15 PM] yung_odin#7606
+1pm will be fine. I'll just be taking the call from my car.
+
+
+[24-Apr-21 12:45 PM] Frank A. Idrogo (drs721)#6456
+Hey everyone, I decided to start setting up a github repository for the project right now. I can't find the google sheet of everyone's github usernames, so to invite ya'll as collaborators can you all pass me your emails?
+
+
+[24-Apr-21 12:45 PM] iris han#7518
+sure, iris.han818@gmail.com
+
+
+[24-Apr-21 12:46 PM] iris han#7518
+thanks for setting it up
+
+
+[24-Apr-21 12:46 PM] Frank A. Idrogo (drs721)#6456
+no problem
+
+
+[24-Apr-21 12:46 PM] iris han#7518
+does everyone have eclipse or some sort of IDE installed by the way?
+
+
+[24-Apr-21 12:47 PM] Frank A. Idrogo (drs721)#6456
+I do
+
+
+[24-Apr-21 12:48 PM] Sebs#5610
+yup
+
+
+[24-Apr-21 12:48 PM] Sebs#5610
+sebastianklemkosky@gmail.com
+
+
+[24-Apr-21 12:48 PM] Rpz701#6053
+masonfisherb@gmail.com
+
+
+[24-Apr-21 12:58 PM] iris han#7518
+gonna hop onto the voice chat now
+
+
+[24-Apr-21 12:59 PM] Frank A. Idrogo (drs721)#6456
+I'm outside so sorry if you guys hear noise in the background when I talk. I'll keep myself muted otherwise
+
+
+[24-Apr-21 12:59 PM] iris han#7518
+no problem
+
+
+[24-Apr-21 01:01 PM] yung_odin#7606
+I'm driving. I'll be on in a few
+
+{Reactions}
+👍 
+
+[24-Apr-21 01:01 PM] Rpz701#6053
+No worries.
+
+
+[24-Apr-21 01:09 PM] Frank A. Idrogo (drs721)#6456
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/835578258371117056/Screen_Shot_2021-04-24_at_1.09.26_PM.png
+
+
+[24-Apr-21 01:20 PM] Frank A. Idrogo (drs721)#6456
+@yung_odin send me your email when you can
+
+
+[24-Apr-21 01:33 PM] yung_odin#7606
+Should be russgar3@hotmail.com
+
+
+[24-Apr-21 01:40 PM] iris han#7518
+Iris: View/interface designs for login/registration, browsing products, checkout, order history/status
+
+
+[24-Apr-21 01:40 PM] Rpz701#6053
+Mason: Customer class, account class, order class, OrderHistory Class
+
+
+[24-Apr-21 01:40 PM] Frank A. Idrogo (drs721)#6456
+Model/Controller for browsing products/product page/inventory
+
+
+[24-Apr-21 01:41 PM] Sebs#5610
+Sebastian: User's guide, Revised Specification, Use-case
+diagrams, Class Diagrams, State Diagrams, Sequence Diagrams, Workload
+Distribution Report, Version History, and Important Email Threads.
+
+
+[24-Apr-21 01:41 PM] yung_odin#7606
+Russell: Model/Controller of Checkout (verifying order contents, payment info, and delivery details and updates)
+
+
+[27-Apr-21 11:46 AM] iris han#7518
+hey guys, since i haven't seen any commits yet, i've gone ahead and created a new javafx project just so we have something to start working with. feel free to make any changes or corrections to it
+
+
+[27-Apr-21 12:08 PM] Rpz701#6053
+Alright. I pushed some of the model classes i had made, There will be errors if you pull now because I've used some classes that aren't necessarily implemented yet. Most of the functionality of the classes are in the customer class diagram in the google drive. I'll work on setting up unit tests on the code I've written for now.
+
+{Reactions}
+👍 
+
+[27-Apr-21 12:10 PM] Rpz701#6053
+Also, should inventory and order be extended from a parent class as they're both aggregates of products and are gonna share add/remove/display product functionality?
+
+
+[27-Apr-21 12:11 PM] Rpz701#6053
+@Frank A. Idrogo (drs721)
+
+
+[27-Apr-21 01:45 PM] Frank A. Idrogo (drs721)#6456
+Yup, that sounds right
+
+
+[27-Apr-21 02:50 PM] Rpz701#6053
+Alright. If you don't mind starting on a product class that we can use for those I'll make the parent class for order/inventory after.
+
+
+[27-Apr-21 03:32 PM] iris han#7518
+are we still doing the mobile app?
+
+
+[27-Apr-21 04:29 PM] Sebs#5610
+I think we are since if we did the web one we would need to worry about hosting a site so a mobile seemed to be easier
+
+
+[27-Apr-21 05:24 PM] iris han#7518
+does anyone have any experience creating an entire mobile app using eclipse? i believe we'll have to use a plugin like gluon, right?
+
+
+[28-Apr-21 10:40 AM] Frank A. Idrogo (drs721)#6456
+Not sure, I've never made a mobile app on eclipse but have experimented a bit on Android Studio. I just pushed my branch and made a pull request.  There weren't any conflicts so I'm going to go ahead and merge my branch to main. Should I wait on fully making controllers since the outline of a controller can be pulled from the scenebuilder with the correct names of buttons/textfields/imageviews once the .fxml files are made?
+
+
+[28-Apr-21 12:36 PM] Rpz701#6053
+In my experience, the controllers are based off of the scenes themselves and utilize multiple model classes to enact actions on the scenes. It makes the most sense, to me, to have a controller for each view that makes use of the model as needed, rather than a controller for the model. A browse scene will make use of Inventory model, and move products from the inventory data structure to the order data structure that is held in the customer class that is creating the order. So, in that case it'll be one controller, the "BrowseController" that uses multiple model classes. At least that's how I've made use of controllers in the past. It makes sense to me to have the view, then create the controller to use the models.
+
+{Reactions}
+👍 
+
+[28-Apr-21 12:39 PM] Rpz701#6053
+Are we still meeting at 1?
+
+
+[28-Apr-21 12:40 PM] Sebs#5610
+I thought it was at 2
+
+
+[28-Apr-21 12:41 PM] Rpz701#6053
+either's fine.
+
+
+[28-Apr-21 12:41 PM] Sebs#5610
+but I'm okay with either
+
+
+[28-Apr-21 12:41 PM] iris han#7518
+yes 2 works best for me since I'm currently in a lecture
+
+
+[28-Apr-21 12:41 PM] Rpz701#6053
+no worries.
+
+
+[28-Apr-21 12:43 PM] Frank A. Idrogo (drs721)#6456
+I'm going to be driving a friend to a vaccination appt that's at 2:15 but I'll try to be on the call. If I'm not on though, just send a message to the chat and I'll respond or respond there or when I hop onto the call
+
+
+[28-Apr-21 12:44 PM] Frank A. Idrogo (drs721)#6456
+*I'll respond on there or when I get on the call
+
+
+[28-Apr-21 01:57 PM] Frank A. Idrogo (drs721)#6456
+Turns out my friend's appt is at 2:45 so I'll be on the call until about 2:15/20, then I have to drive
+
+
+[28-Apr-21 01:57 PM] Rpz701#6053
+That works for me, I wanted to talk about the product class with you.
+
+
+[28-Apr-21 01:57 PM] Frank A. Idrogo (drs721)#6456
+Okay
+
+
+[02-May-21 03:22 PM] iris han#7518
+Hey everyone, are y'all free tomorrow or Tuesday to meet and discuss about where we currently are with the project? I believe the bulk of our work is due this coming Friday
+
+
+[02-May-21 03:23 PM] Rpz701#6053
+Yep. I'm finishing up an assignment due tonight but after that all i need to finish my portion of the assignment is the view so that I can create a controller for it. I'll be available whenever after tonight.
+
+
+[02-May-21 03:29 PM] iris han#7518
+Great, yeah I wanted to talk to you guys about the designs for some of the views so I can finish up my part. So just let me know when y'all are free
+
+
+[02-May-21 03:30 PM] Rpz701#6053
+Sounds good.
+
+
+[02-May-21 03:38 PM] Sebs#5610
+I'm also free to meet on either days
+
+
+[02-May-21 03:38 PM] Sebs#5610
+whenever is fine
+
+
+[03-May-21 12:30 PM] Frank A. Idrogo (drs721)#6456
+Are any of you guys having problems seeing the views or is it just me?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/838829903826518086/Screen_Shot_2021-05-03_at_12.27.29_PM.png
+
+
+[03-May-21 12:31 PM] Rpz701#6053
+I was actually just noticing that. It seems like I might be using the wrong version of Javafx too because in my project the controllers us JFXButton when my Javafx just uses the Button class.
+
+
+[03-May-21 12:31 PM] Rpz701#6053
+Same for all the Javafx elements in the views.
+
+
+[03-May-21 12:33 PM] Frank A. Idrogo (drs721)#6456
+Ohh that's true. Yeah, I might have the wrong JavaFX version
+
+
+[03-May-21 12:33 PM] Rpz701#6053
+And in the views, the elements that aren't JFXelement show up but those that are can't be seen
+
+
+[03-May-21 12:34 PM] Frank A. Idrogo (drs721)#6456
+At first I thought it was because I had the wrong JSE, so I changed it from 12.0.1 to 1.8.0 but still can't see views correctly
+
+
+[03-May-21 12:35 PM] Rpz701#6053
+Yeah, I thought we were using 1.8 so that's what i'm set up with. Guess we need to get with @iris han to see what her settings are.
+
+
+[03-May-21 12:36 PM] Rpz701#6053
+For now I'm just finishing making unit tests.
+
+
+[03-May-21 12:55 PM] Rpz701#6053
+Also, not sure when we're planning on meeting today, but i'll have class at 2-3. Just a heads up.
+
+
+[03-May-21 01:31 PM] Frank A. Idrogo (drs721)#6456
+I have a work meeting 4 today. Should hopefully be done by 5
+
+
+[03-May-21 01:38 PM] iris han#7518
+Hmm weird, I'll take a look at it right after my class
+
+
+[03-May-21 01:38 PM] iris han#7518
+I have a class from 2-3 as well but should be free afterwards
+
+{Reactions}
+👍 
+
+[03-May-21 01:44 PM] iris han#7518
+Under the lib folder, do y'all see jfoenix.jar?
+
+
+[03-May-21 01:47 PM] iris han#7518
+It should be in there. If you view the fxml files in scene builder, I believe you'd need to import the jfoenix.jar file by clicking on the settings icon to the right of the search bar, and then go to Import JAR/FXML File
+
+
+[03-May-21 01:48 PM] iris han#7518
+So maybe try that first? If y'all still can't view them, let me know
+
+
+[03-May-21 01:57 PM] Rpz701#6053
+Doesn't seem to work. Is there a reason you're using the custom openfx instead of the native fx from java 8?
+
+
+[03-May-21 02:02 PM] iris han#7518
+It has some extra features/components I liked that weren't available in the native fx
+
+
+[03-May-21 02:04 PM] iris han#7518
+It's not absolutely necessary though I suppose, if y'all can't get it to work on your end. I can redo the parts that use it if needed.
+
+
+[03-May-21 02:04 PM] iris han#7518
+Is jfoenix showing in y'alls build path for the project?
+
+
+[03-May-21 02:06 PM] iris han#7518
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/838854130243731486/unknown.png
+
+
+[03-May-21 02:30 PM] Rpz701#6053
+Gotcha. Adding it to the class path fixed a lot of the errors in the project, but didn't add them to the view in scene builder. I'll just use the jfoenix as if it were working and see if once the controller is set up it builds correctly.
+
+{Reactions}
+👍 
+
+[03-May-21 04:25 PM] Rpz701#6053
+getting a weird bug when trying to open the fxml files in scene builder, the app just doesn't open them? I'd like to assign functions to buttons in SB. Guess i'll just have to use the fxml mark up language.
+
+
+[03-May-21 04:59 PM] Sebs#5610
+i was having that bug as well I think I had to close scenebuilder in task manager or reinstall SceneBuilder for Java 8
+
+
+[03-May-21 05:00 PM] Sebs#5610
+this was after trying to fiddle with the JFX jar
+
+
+[03-May-21 05:01 PM] Sebs#5610
+for that I had to add through Scene Builder rather than through eclipse
+
+
+[03-May-21 05:07 PM] Rpz701#6053
+Well, good news is I was able to get the scenes to open through running the application. Tying them all together through controllers so we'll be able to navigate through the pages using them. This is without model functionality, though, so far. I've got initial view with working login, and signup buttons that open those views.
+
+
+[03-May-21 05:14 PM] Rpz701#6053
+Pushed. No functionality yet, but main works!
+
+
+[03-May-21 05:37 PM] Sebs#5610
+Are we meeting today? If so is there a time set for it
+
+
+[03-May-21 05:38 PM] Rpz701#6053
+Idk, I've just been sitting in the voice channel. sounds like everyone should be available going off of whats been said in the chat so far.
+
+
+[03-May-21 05:54 PM] iris han#7518
+I'm unable to voice chat at the moment but I can meet and listen in/type my responses in the chat
+
+
+[03-May-21 05:54 PM] iris han#7518
+Unless y'all want to meet a little bit later
+
+
+[03-May-21 05:55 PM] Rpz701#6053
+We can meet later. Whatever works for me. When will you be avalable?
+
+
+[03-May-21 05:55 PM] iris han#7518
+In about an hour or so I think
+
+
+[03-May-21 05:55 PM] iris han#7518
+Does that work for you guys
+
+
+[03-May-21 05:55 PM] Rpz701#6053
+yep.
+
+
+[03-May-21 05:57 PM] Sebs#5610
+@everyone does 7 pm work for everyone to hop on the discord for a meeting
+
+{Reactions}
+👍 (2) 
+
+[03-May-21 05:58 PM] Sebs#5610
+if you cant make it for whatever reason just leave a message in general so we can reschedule
+
+
+[03-May-21 07:02 PM] Sebs#5610
+https://gluonhq.com/products/scene-builder/
+
+{Embed}
+gluonhq
+https://gluonhq.com/products/scene-builder/
+Scene Builder - Gluon
+Drag & Drop,Rapid Application Development. Download Now   Integrated Scene Builder works with the JavaFX ecosystem – official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.   Simple Drag & Drop user interface design allows for rapid iteration. Separation of design and logic files all...
+https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1
+
+
+[03-May-21 11:19 PM] Rpz701#6053
+Alright, good news, All of the buttons in each of the views now have a handle and will open their corresponding views. We still can't see the login view as you need at least one account created in order to log in, so that will be accessible as soon as we have a logout button, but if you wanted to play with the "working" app, its on github.
+
+{Reactions}
+💯 
+
+[03-May-21 11:20 PM] Rpz701#6053
+@yung_odin any word on the checkout model or progress with that?
+
+
+[04-May-21 02:15 PM] Rpz701#6053
+Alllrighty then, I'll wait for Iris to put out the pages that derive from the home page and implement functions for a checkout class as they are needed to make the app work. @Frank A. Idrogo (drs721) , I also messed with your classes a bit to add sorting funcitonality, just in case we want a button on the view that sorts by name, price or quantity. (This could be as simple as an onClick function for row labels @iris han, if you don't want to worry about making more buttons to clutter up a screen.) Other than that we'll just need some way to apply discounts and keep track of them. And it looks like you've kinda gotten that started, frank, in the product class, so I'll leave that to you and worry about controllers/test cases.
+
+
+[04-May-21 02:40 PM] iris han#7518
+I'm still working on some of the views  (having to redo the product page because I tried to implement a gridpane containing each of the products' info/image + add to cart button and it was taking a bit too long to get to work so I decided on going a simpler route), but I just pushed the home page view containing the logout button so y'all can go ahead and work on the login view if needed. It's still a work in progress but I'll put everything out as soon as I'm done.
+
+
+[04-May-21 02:44 PM] Rpz701#6053
+Awesome! Thanks, Iris.
+
+{Reactions}
+👍 
+
+[04-May-21 03:06 PM] iris han#7518
+I also just pushed some of what I had been trying to implement for the product page as well - if y'all could take a look and give me some feedback on it that'd be great. It involves adding another attribute (img src) to the Product class. If you guys think it's too complicated to implement in the remaining time we have then I'll scrap it haha.
+
+
+[04-May-21 03:40 PM] Rpz701#6053
+Well, the only issue i see with this is it injects the view into the model. If we load the products into the inventory from a csv and simply add the ImgSrc as a string of the path to the image from the model it'd be super straightforward to implement.
+
+
+[04-May-21 03:41 PM] Rpz701#6053
+Where does the Item controller get the product from? should product page call it?
+
+
+[04-May-21 03:49 PM] Rpz701#6053
+Also, make sure you update your version before you push, iris. Looks like you undid some of the buttons I put together last night.
+
+
+[04-May-21 03:55 PM] iris han#7518
+Right, I was thinking the product page could call it. We could go with whatever is most straightforward to implement
+
+
+[04-May-21 03:56 PM] iris han#7518
+Thanks for letting me know, I'll go back and update my version
+
+
+[04-May-21 04:14 PM] Rpz701#6053
+Right, so when productPageController loads the scene itemview, where does it put that scene? it looks like, for now, there's just the one place being the scroll pane in the middle. can you populate a scroll plane with multiple fxml loaded scenes at the same time?
+
+
+[04-May-21 04:41 PM] iris han#7518
+I was thinking of creating a dynamic gridpane? Like keeping it two columns and x rows based on the amount of items. And we'd load an itemview into each grid
+
+
+[04-May-21 04:41 PM] iris han#7518
+if that makes sense
+
+
+[04-May-21 05:07 PM] Rpz701#6053
+Well, Up to  you and @Frank A. Idrogo (drs721) to implement. I'm gonna push a working version that has the login, logout functionality that will have the call to getPImgSrc() commented out so that it will run for now.
+
+
+[05-May-21 01:13 AM] Frank A. Idrogo (drs721)#6456
+Sorry for the late message. I've been working on a GameDev project that's due today. I'll continue working on the test cases for today. I see that some stuff for the product page controller was already added for when buttons are clicked, thanks Mason. Is there any other controller aside from that one I should be adding to? I'm supposed to focus on browsing products, product page, and inventory. There won't be a view for inventory though, right? Since we're focusing on the customer's perspective
+
+
+[05-May-21 01:13 AM] Frank A. Idrogo (drs721)#6456
+Also, were ya'll ever able to get SceneBuilder to show the views correctly?
+
+
+[05-May-21 08:20 AM] Sebs#5610
+Hey I'm got my second covid shot yesterday and am feeling pretty sickly so I may not be able to attend the meeting today. I'm confident I can still finish my work for the project and I will let yall know if something else comes up. if possible can someone type a quick summary of the meeting if anything very important was discussed and let me know when we plan to meet again.  For the actual presentation we are able to record a video showcasing the project and then answer some questions afterward. Since I'm making the user's guide I could also record this video of me following it and that could be our presentation. If you guys want to handle the questions I can record the presentation  just let me know if you want to do that.
+
+
+[05-May-21 08:21 AM] Sebs#5610
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/839492027405697064/KsICOLpX9WdQmML4HnXArZyv5b9eg7ypQOZe358HlvLFxNICAQEAgIBCoxAUE8VeLOEUwTCAgEBAICAYGAQKDyERDEUXrE8EigYB.png
+
+
+[05-May-21 08:23 AM] Sebs#5610
+also the project is due before the end of the day on the 7th so as long as we complete everything before maybe 4pm on that day I will have plenty of time to finish the User's guide and record the video if we want to go that route
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/839492438926032946/7wAAAABJRU5ErkJggg.png
+
+
+[05-May-21 08:24 AM] Rpz701#6053
+Multiple due dates are confusing. The working code is due on the 7th, right?
+
+
+[05-May-21 08:25 AM] Sebs#5610
+yeah sorry made a little error
+
+
+[05-May-21 08:25 AM] Rpz701#6053
+no worries.
+
+
+[05-May-21 08:25 AM] Sebs#5610
+but yeah everything is due on the 7th
+
+
+[05-May-21 08:25 AM] Sebs#5610
+then presentation on the 11th
+
+
+[05-May-21 11:16 AM] iris han#7518
+Feel better @Sebs !
+
+
+[05-May-21 11:16 AM] iris han#7518
+We’re still meeting at 12 today right?
+
+
+[05-May-21 11:43 AM] Rpz701#6053
+Works for me
+
+
+[05-May-21 11:45 AM] Frank A. Idrogo (drs721)#6456
+I'll be on
+
+
+[05-May-21 12:03 PM] yung_odin#7606
+Kind of just woke up and I've got a class rn. I've had a couple of projects in my other classes that I've been working on. Finished those up last night. Going to be working full time on this project now.
+
+
+[05-May-21 12:05 PM] Rpz701#6053
+What time does your class end?
+
+
+[05-May-21 12:06 PM] yung_odin#7606
+12:50
+
+
+[05-May-21 12:06 PM] Rpz701#6053
+We can meet back then if we're done and we can fill you in on what we've done
+
+
+[05-May-21 12:07 PM] yung_odin#7606
+Sounds good. I'll check in after class
+
+
+[05-May-21 01:12 PM] Frank A. Idrogo (drs721)#6456
+yeah i can send the invite
+
+
+[05-May-21 01:12 PM] Frank A. Idrogo (drs721)#6456
+dunno why my mic isnt working now
+
+
+[05-May-21 01:13 PM] Frank A. Idrogo (drs721)#6456
+just sent the invite using russgar3@hotmail.com
+
+
+[05-May-21 01:23 PM] Frank A. Idrogo (drs721)#6456
+Gonna jump off the call to edit a demo video for another class, but I'll be on later tonight. Talk to ya'll later
+
+
+[05-May-21 02:23 PM] iris han#7518
+Hey @Sebs, at our meeting today we basically just discussed about how we were going to implement some of the remaining views, and tried to get everyone on the same page; no major decisions or anything were made. We’re thinking about meeting again tomorrow though, if you're feeling well enough to join that'd be great
+
+
+[05-May-21 02:24 PM] iris han#7518
+Does 1pm tomorrow work for everyone? @everyone
+
+
+[05-May-21 03:20 PM] Rpz701#6053
+I'll be available.
+
+{Reactions}
+👍 
+
+[06-May-21 01:09 PM] iris han#7518
+in the discord voice channel now, don't know if y'all can hear me
+
+
+[06-May-21 02:57 PM] Rpz701#6053
+Hey, @iris han, do we need to be using a treetableview in orders? how were you thinking of sorting the products into a tree?
+
+
+[06-May-21 03:29 PM] iris han#7518
+Hmm it would probably be easier to implement with just a TableView + TableColumns. Let me redo the checkout page and orders page views real quick.
+
+
+[06-May-21 03:30 PM] Rpz701#6053
+I think i've got it working as is just without making use of the tree. Let me put in some test products to see if it works.
+
+
+[06-May-21 03:30 PM] iris han#7518
+Ok great, sounds good.
+
+
+[06-May-21 03:33 PM] Rpz701#6053
+so turns out treeItemPropertyValueFactory makes the app freeze! Lets try table view.
+
+
+[06-May-21 03:34 PM] iris han#7518
+Gotcha, I'll go ahead and work on the views then
+
+
+[06-May-21 03:42 PM] iris han#7518
+The new versions of those views should be up now
+
+
+[06-May-21 05:15 PM] Rpz701#6053
+Hey, @Frank A. Idrogo (drs721) I'm gonna gut your class by replacing all the getters and setters with lowercase get and set versions of themselves. The property factory for the tabelview is unable to extract product class if they don't match what its expecting. Just a heads up that your next update might be full of conflicts.
+
+
+[06-May-21 05:18 PM] Frank A. Idrogo (drs721)#6456
+All good👍 thanks for the heads up
+
+
+[06-May-21 05:39 PM] Rpz701#6053
+Man, that thing was a mess to make work for some reason. Because the controller is binded in the fxml file you need to inject the propertyValueFactory into the fxml as well inorder to get them to show the data you load the tableview with. I'm gonna push it now that its working and you can check it out too, @yung_odin. You might have the same issue.
+
+
+[06-May-21 06:24 PM] Rpz701#6053
+Alright just pushed the fully implemented order history view. There is test data commented out. It will need data from the Browse view. I'm gonna take a break for dinner. Message me if ya'll are running into unexpected problems, though!
+
+
+[06-May-21 08:22 PM] Frank A. Idrogo (drs721)#6456
+Just pushed my branch. The ProductPageView now loads item.fxml into the gridpane so you can scroll through products. It's just the apple product for right now though. Still working on the functionality for itemcontroller to add the item to the order.
+
+
+[06-May-21 09:06 PM] Rpz701#6053
+Alright. If you get the most recent branch i added a line in item controller so now it will add to the order when you click add to cart. Once we get products loaded to an inventory, what happens when there isn't a product? does it just show honeycripsp apples like it does now? That seems like it could be and issue if we have an orange, a banana, toothpaste and 25 different honeycrisp apples that all add null to current order.
+
+
+[06-May-21 09:29 PM] Frank A. Idrogo (drs721)#6456
+Do you mean like if the product's quantity goes to 0?
+
+
+[06-May-21 10:46 PM] Rpz701#6053
+Well there's 8 fields that are all honecrisps right now. If we 3 products into the inventory will there be 3 products and 5 honeycrisps?
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/840072009593258014/unknown.png
+
+
+[06-May-21 10:48 PM] Rpz701#6053
+Sorry, they will, because that's what's set in the item.fxml. So it may be necessary to set the pain as invisible until there is a value in inventory
+
+
+[06-May-21 10:51 PM] Rpz701#6053
+So here, because i set view.setVisible(false) now the fist item isn't there. Could be they all need to be set to false until items are in the inventory
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/840073240436801536/unknown.png
+
+
+[06-May-21 10:51 PM] Rpz701#6053
+otherwise, the default view will be there.
+
+
+[06-May-21 10:52 PM] Rpz701#6053
+then you could create a function that toggles the visibility and just call it for each that has a value.
+
+
+[06-May-21 10:55 PM] Rpz701#6053
+Also, I don't think it's possible for the if statement you have there to execute as you just set each view to the pages from fxml loader. I don't think its possible for the fxml loader to return null it'll just throw IOexception instead.
+
+
+[07-May-21 12:17 PM] Rpz701#6053
+I'd say I've got about 30min-1hr worth of comp arch project to finish then I'll just be sitting in the voice chat on spotify working on filling out my branches for the unit testing for about the rest of the day. If anyone is really struggling implementing their parts I hope you'll let me know then so we can bang our heads against it together!
+
+
+[07-May-21 12:22 PM] Frank A. Idrogo (drs721)#6456
+Sounds good👍 I'm still working on figuring out the problem you brought up yesterday, but hopefully I'll get stuff it figured out soon.
+
+
+[07-May-21 12:23 PM] Frank A. Idrogo (drs721)#6456
+stuff *figured out soon
+
+
+[07-May-21 12:25 PM] Rpz701#6053
+yeah that could be tricky because you don't know how many visible slots you need unless you update it on every button click. And if an item is zero, how do you know which slot to make invisible unless you have some kind of map for each slot to each potential item. Maybe you load items from the inventory in main once and only change the quantity, so each item that was originally there can go to 0 but doesn't need to be removed from the display?
+
+
+[07-May-21 01:19 PM] Rpz701#6053
+Alternatively, you could just go into the fxml and delete the 0.65 and name text fields then set those manually so they're all just "add to cart" under a blank image. Would be a bit quicker.
+
+
+[07-May-21 03:46 PM] Frank A. Idrogo (drs721)#6456
+My earphones died and my mic isnt working on my computer again like last time
+
+
+[07-May-21 03:49 PM] Frank A. Idrogo (drs721)#6456
+whats up
+
+
+[07-May-21 03:53 PM] Frank A. Idrogo (drs721)#6456
+just got the updated version of the branch
+
+
+[07-May-21 03:54 PM] Frank A. Idrogo (drs721)#6456
+yeah haha
+
+
+[07-May-21 03:55 PM] Frank A. Idrogo (drs721)#6456
+you okay lol
+
+
+[07-May-21 03:57 PM] Frank A. Idrogo (drs721)#6456
+there's no way to add multiple controllers to one fxml, right?
+
+
+[07-May-21 03:58 PM] Frank A. Idrogo (drs721)#6456
+gotcha gotcha
+
+
+[07-May-21 03:59 PM] Frank A. Idrogo (drs721)#6456
+all good, thanks for helping out
+
+
+[07-May-21 04:00 PM] Frank A. Idrogo (drs721)#6456
+sounds good
+
+
+[07-May-21 04:53 PM] Sebs#5610
+how is the project coming along still
+
+
+[07-May-21 05:00 PM] Rpz701#6053
+@everyone would you guys like to get into a group chat to figure out what else needs to be done? Sebastian just needs the users guide for the documentation to be finished and I'm finished up with tests so it would be a better use of everyone's time if we could all work on the small parts that are left.
+
+
+[07-May-21 05:01 PM] iris han#7518
+sure, give me like 15 minutes and i can get on
+
+
+[07-May-21 05:05 PM] yung_odin#7606
+I finishing up a meeting. I'll be on after
+
+
+[07-May-21 05:57 PM] Frank A. Idrogo (drs721)#6456
+Do you guys have an issue with .setText() for nameLabel and priceLabel in homepagecontroller? even if I hardcode a string in it, still nothing shows up
+
+
+[07-May-21 06:19 PM] Rpz701#6053
+@yung_odin How far along is the checkout controller? do you have an estimate on when it will be working or need any help?
+
+
+[07-May-21 06:36 PM] yung_odin#7606
+Uh I don't know how to say this and Im trying keep cool but my surface got pull off my desk by a cable and is not turning on. I'm trying to see if I can recover any work I have to my desktop so uh give me a moment more I have a pizza that should be getting here soon and I'll be on
+
+
+[07-May-21 06:38 PM] Rpz701#6053
+No worries, man. I've got a version of checkout controller that is working. Hope you're computer isn't broken!
+
+
+[07-May-21 08:28 PM] Frank A. Idrogo (drs721)#6456
+Yeah update main
+
+
+[07-May-21 08:28 PM] Frank A. Idrogo (drs721)#6456
+earphones died again
+
+
+[07-May-21 08:50 PM] Rpz701#6053
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/840405318140035152/unknown.png
+
+
+[07-May-21 09:44 PM] Sebs#5610
+found a bug
+
+{Attachments}
+https://cdn.discordapp.com/attachments/804414689156792323/840418781871996989/unknown.png
+
+
+[07-May-21 09:44 PM] Sebs#5610
+@Rpz701
+
+
+[07-May-21 09:53 PM] Sebs#5610
+it's fixed nvm
+
+
+[07-May-21 09:57 PM] Rpz701#6053
+That looks like it might be the homepage controller loading the same fxml over and over.
+
+
+[07-May-21 09:57 PM] Rpz701#6053
+or maybe an issue with the mechanism that decides what's got a discount?
+
+
+==============================================================
+Exported 317 message(s)
+==============================================================
