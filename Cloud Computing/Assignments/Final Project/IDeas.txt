@@ -1,2 +1,0 @@
-Using MPI
-Find the similarities between 2 strings or files
